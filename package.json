@@ -13,5 +13,8 @@
   },
   "dependencies": {
     "connect": "2.19.6"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
