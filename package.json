@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "main": "server.js",
-  "repository" :
+  "repository":
   { 
 	"type" : "git",
 	"url" : "https://github.com/pjmolina/nodejs-static-web-server"
-  }
+  },
   "scripts": {
     "start": "node server.js"
   },
